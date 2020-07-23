@@ -14,3 +14,7 @@ Webサイトを作ってみたいが、作り方がわからない！そんな�
 ### 【HTML、CSS、JSの書式】これを読めばコードが読める！書ける！まとめ！
 
 https://qiita.com/i-ryo/items/c8527759c2f490f2dade
+
+## プレビュー画面
+
+http://ryo-i.github.io/HTML_CSS_JS_formats/
