@@ -37,7 +37,7 @@ body {
 }
 
 /*リンク（マウスオーバー）*/
-#profile .link:hover {
+#profile .link a:hover {
     opacity: 0.7;
 }
 
